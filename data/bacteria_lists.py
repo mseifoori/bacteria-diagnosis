@@ -23,12 +23,12 @@ enterobacteriaceae_bacteria = [
 nfb_bacteria = [
     'Pseudomonas aeruginosa',
     'Alcaligenes faecalis',
-    'Cryseobacterium meingosepticum',
+    'Cryseobacterium meningosepticum',
     'Moraxella catarrhalis',
     'Moraxella lacunata',
     'Shewanella putrefaciens',
     'Acinetobacter baumannii',
-    'Acintobacter lwoffii',
+    'Acinetobacter lwoffii',
     'Borkholderia cepacia',
     'Stenotrophomonas maltophilia',
 ]
