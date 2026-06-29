@@ -73,7 +73,7 @@ nfb_bacteria_tests = pd.DataFrame({
               '++v-',
               '-+v-',
               '-+v-',
-              '-+v-',
+              '-+v+',
               '-+vv',
               '-+vv',
               '-+v+',
