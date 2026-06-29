@@ -29,7 +29,7 @@ nfb_bacteria = [
     'Shewanella putrefaciens',
     'Acinetobacter baumannii',
     'Acinetobacter lwoffii',
-    'Borkholderia cepacia',
+    'Burkholderia cepacia',
     'Stenotrophomonas maltophilia',
 ]
 

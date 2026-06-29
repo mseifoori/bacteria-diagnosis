@@ -15,7 +15,7 @@ enterobacteriaceae_bacteria_tests = pd.DataFrame({
             'K/A', 'A/A or K/A', 'A/A'],
     'OF': 'F+',
     'Urease': ['-', '-', '-', '+', '-',
-               '-', '-', '+', '+', '-',
+               '-', '-', '+', '+', '+',
                '+', '-', '-', '-', '-',
                '-', '-', '-'],
     'PD': ['-', '-', '-', '-', '-',
@@ -86,6 +86,7 @@ nfb_bacteria_tests = pd.DataFrame({
     'ONPG': 'NI'
 }, index=nfb_bacteria)
 
+nfb_bacteria_tests.loc['Burkholderia cepacia', 'LDC'] = '+'
 nfb_bacteria_tests.loc['Stenotrophomonas maltophilia', 'LDC'] = '+'
 
 nfb_bacteria_tests.index.name = 'Bacteria'
