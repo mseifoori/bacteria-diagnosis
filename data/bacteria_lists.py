@@ -30,7 +30,7 @@ nfb_bacteria = [
     'Acinetobacter baumannii',
     'Acinetobacter lwoffii',
     'Burkholderia cepacia',
-    'Stenotrophomonas maltophilia',
+    'Stenotrophomonas maltophilia'
 ]
 
 gram_positive_bacteria = [
